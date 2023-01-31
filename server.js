@@ -23,7 +23,7 @@ connectDb();
 app.use(credentials);
 
 // Cross Origin Resource Sharing
-// app.use(cors(corsOptions));
+app.use(cors(corsOptions));
 
 // built-in middleware to handle urlencoded data
 // in other words, form data:
