@@ -1,7 +1,7 @@
 {
-  "name": "08tut",
+  "name": "login-registration",
   "version": "1.0.0",
-  "description": "Express tutorial",
+  "description": "Express",
   "main": "server.js",
   "scripts": {
     "start": "node server",
