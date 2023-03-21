@@ -1,1 +1,1 @@
-This project uses node js and express js with mongo db to register users. For an authenticated user an access token to assign with which they can use it to perform task.
+A registration system written in Express.js and Node.js would be a web application that allows users to create accounts, log in, and access protected resources. The system would use MongoDB as its database and JSON Web Tokens (JWTs) for authentication.
